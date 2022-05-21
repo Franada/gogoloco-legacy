@@ -1,6 +1,6 @@
 # GoGo Loco
 
-![alt text](https://media.discordapp.net/attachments/974136857170419772/977669230549958656/icon_Go_Loco.png)(![image](https://user-images.githubusercontent.com/45869735/169668295-d14c274b-9494-4f52-b196-68e75561bd92.png))
+![alt text](https://media.discordapp.net/attachments/974136857170419772/977669230549958656/icon_Go_Loco.png)![image](https://user-images.githubusercontent.com/45869735/169668303-4bbf08ca-1189-47d6-bce0-2c88a935ee01.png)
 
 
 # Terms of Service
