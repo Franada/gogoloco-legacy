@@ -2,7 +2,7 @@
 
 ![alt text](https://media.discordapp.net/attachments/974136857170419772/977669230549958656/icon_Go_Loco.png)
 
-# Term of use
+# Terms of Service
 
 You can use it on model you sell but keep the icon as they are in the menu.
 
