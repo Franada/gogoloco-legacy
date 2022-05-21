@@ -2,7 +2,11 @@
 
 ![alt text](https://media.discordapp.net/attachments/974136857170419772/977669230549958656/icon_Go_Loco.png)
 
+# Term of use
+
 You can use it on model you sell but keep the icon as they are in the menu.
+
+# Description
 
 This locomotion prefab was created to improve the default controller. On top of that, you have multiple toggle to turn off legs movement or jump animation as example.
 
