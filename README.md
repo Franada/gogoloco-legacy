@@ -5,7 +5,7 @@
 
 # Terms of Service
 
-You can use it on models you're selling, but keep the icons main icon in the menu.
+You can use it on models you're selling, but keep the main icon in the menu.
 
 # Description
 
