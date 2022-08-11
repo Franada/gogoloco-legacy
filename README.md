@@ -28,7 +28,7 @@ Currently support :
 Total Memory use 19/128
 
 
-An experiment, Exp, controller come with scaling and fly features.
+An advance controller come with scaling and fly features.
 
 - Use a radial or the right fist trigger to increase the speed.
 
