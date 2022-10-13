@@ -21,14 +21,14 @@ Special game loco toggle that enable advance movement detection for game map.
 
 Currently support :
 
-- Jet Set Radio Festival(broken at the moment)
+- Jet Set Radio Festival
 
 - Super VR Ball
 
 Total Memory use 19/128
 
 
-An advance controller come with scaling and fly features.
+An advance controller come with scaling, fly & more.
 
 - Use a radial or the right fist trigger to increase the speed.
 
