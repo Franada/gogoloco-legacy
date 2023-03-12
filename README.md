@@ -1,4 +1,4 @@
-# GoGo Loco
+# GoGo Loco｜
 
 ![alt text](https://media.discordapp.net/attachments/974136857170419772/977669230549958656/icon_Go_Loco.png)
 
