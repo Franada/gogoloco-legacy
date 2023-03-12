@@ -1,4 +1,4 @@
-# GoGo Loco｜
+# GoGo Loco｜System
 
 ![alt text](https://media.discordapp.net/attachments/974136857170419772/977669230549958656/icon_Go_Loco.png)
 
@@ -13,29 +13,18 @@ This locomotion prefab was created to improve the default controller. On top of 
 
 You can cycle between multiple pose to simulate that you have full body tracking.
 
--Sit/Laydown anywhere
-
-There's a build-in play space feature that move your character up and down. Perfect for small character.
-
-Special game loco toggle that enable advance movement detection for game map.
-
-Currently support :
-
-- Jet Set Radio Festival
-
-- Super VR Ball
-
-Total Memory use 19/128
-
+Build-in Play Space feature that move your character up and down. Perfect for small character.
 
 An advance controller come with scaling, fly & more.
-
-- Use a radial or the right fist trigger to increase the speed.
 
 # Tutorial 
 
 https://www.craft.do/s/CxY701Ne9Ng5Ev
 
-Discord :
+# Discord Group
 
 https://discord.gg/bmRSdm7rQY
+
+# VRChat Group
+
+https://vrc.group/GGL.8930
