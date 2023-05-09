@@ -3,28 +3,31 @@
 ![alt text](https://media.discordapp.net/attachments/974136857170419772/977669230549958656/icon_Go_Loco.png)
 
 
-# Terms of Service
-
 You can use it on models you're selling, but keep the main icon in the menu.
-
-# Description
+_____________________________________________
 
 This locomotion prefab was created to improve the default controller. On top of that, you have multiple toggle to turn off legs movement or jump animation as example.
 
 You can cycle between multiple pose to simulate that you have full body tracking.
 
-Build-in Play Space feature that move your character up and down. Perfect for small character.
+-Sit/Laydown anywhere
 
-An advance controller come with scaling, fly & more.
+There's a build-in play space feature that move your character up and down. Perfect for small character.
 
-# Tutorial 
+Special game loco toggle that enable advance movement for game map.
 
-https://www.craft.do/s/CxY701Ne9Ng5Ev
+Sync memory use 16/256
+_____________________________________________
 
-# Discord Group
++Special controllers with scaling & fly.
+_____________________________________________
 
-https://discord.gg/bmRSdm7rQY
+Documentation: www.craft.do/s/CxY701Ne9Ng5Ev
 
-# VRChat Group
+VRChat Group: vrc.group/GGL.8930
 
-https://vrc.group/GGL.8930
+Discord: discord.gg/mSpNQm5vP8
+
+A tool to install automatically GGL.
+
+gitlab.com/VRCFury/VRCFury/-/tree/main/Prefabs/GogoLoco
