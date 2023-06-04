@@ -19,7 +19,7 @@ Special game loco toggle that enable advance movement for game map.
 Sync memory use 16/256
 _____________________________________________
 
-+Extra with scaling & flying that work PC & Quest.
++Extra with scaling & flying that work on PC & Quest.
 _____________________________________________
 
 Documentation: www.craft.do/s/CxY701Ne9Ng5Ev
