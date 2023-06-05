@@ -30,4 +30,4 @@ Discord: discord.gg/mSpNQm5vP8
 
 A tool to install automatically GGL.
 
-gitlab.com/VRCFury/VRCFury/-/tree/main/Prefabs/GogoLoco
+https://vrcfury.com/
