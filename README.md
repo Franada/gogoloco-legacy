@@ -31,3 +31,5 @@ Discord: discord.gg/mSpNQm5vP8
 A tool to install automatically GGL.
 
 https://vrcfury.com/
+
+[![How to EASILY add GoGo Loco to a VRChat Avatar!](https://img.youtube.com/vi/UnbcQAqnruo/0.jpg)](https://www.youtube.com/watch?v=UnbcQAqnruo)
