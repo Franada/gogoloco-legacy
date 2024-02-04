@@ -31,3 +31,5 @@ Discord: discord.gg/mSpNQm5vP8
 A tool to install automatically GGL.
 
 https://vrcfury.com/
+
+Video Tutorial : https://www.youtube.com/watch?v=UnbcQAqnruo
